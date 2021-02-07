@@ -13,3 +13,13 @@
 * Listar os comandos disponiveis do ng
 - No terminal da sua preferencia digite o comando ng -h
 
+* Criando um projeto Angular
+- ng new nome-projeto > leia as mensagens que irao aparecer e marque s ou n para selecionar as opções
+- selecione o tipo de css do seu agrado
+
+* Subindo a aplicação
+- ng serve --open > para ele subir e abrir a pagina
+- ng serve > apenas subira o projeto
+
+
+

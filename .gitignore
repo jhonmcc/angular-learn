@@ -1,0 +1,43 @@
+/course-manager/dist
+/course-manager/tmp
+/course-manager/out-tsc
+# Only exists if Bazel was run
+/course-manager/bazel-out
+
+# dependencies
+/course-manager/node_modules
+
+# profiling files
+chrome-profiler-events*.json
+speed-measure-plugin*.json
+
+# IDEs and editors
+/course-manager/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+/course-manager/.sass-cache
+/course-manager/connect.lock
+/course-manager/coverage
+/course-manager/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/course-manager/typings
+
+# System Files
+.DS_Store
+Thumbs.db
