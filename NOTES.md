@@ -32,5 +32,15 @@ EX: um navBar, carrosel
 * Desenvolvimento em modulos com design Modular
 - veja definicao na imagem "design-modular.png" nos prints
 
+* Arquiteturas 
+* SMACSS - Arquitetura modular para organizar o css 
+- veja algumas definições na imagem "arquitetura-smacss.png" nos prints
+
+* BEM(CSS) - Bloco, Elemento Modificador 
+- veja a definicao na imagem "arquitetura-bem(css).png" nos prints.
+
+* OOCSS - CSS orientado a objeto, o intuito é a reutilização de código atraves de classes
+- veja a imagem "arquitetura-oocss.png" nos prints.
+
 
 
