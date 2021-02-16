@@ -42,5 +42,19 @@ EX: um navBar, carrosel
 * OOCSS - CSS orientado a objeto, o intuito é a reutilização de código atraves de classes
 - veja a imagem "arquitetura-oocss.png" nos prints.
 
+* Instalando o bootstrap
+- npm install bootstrap, no seu projeto 
+    - verifique no diretorio node_modules se foi criado um diretorio com o nome do bootstrap.
+
+    * Definindo o bootstrap de forma global
+    - Vá para o arquivo styles.css ou styles.scss dentro da pasta src do seu projeto
+    - Insira o endereço do arquivo 
+    - @import '~bootstrap/dist/css/bootstrap.min.css'
+    - OU
+    - @import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
+    - Reinicie o serve
+    - Faça um teste inserindo algum elemento do bootstrap
+
+
 
 
