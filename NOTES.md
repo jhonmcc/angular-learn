@@ -14,6 +14,7 @@ EX: um navBar, carrosel
 - Property Binding: [propiedade]="valor" - associa info do componente para a propiedade do template HTML
 - Event Binding - (click, onMouseHover, etc)="hanler()" - associa info do template HTML para o componente
 - Two-Way Data Binding: [(ngModel)]="propiedade" - associa info entre ambos ou seja mantem ambos atualizados (componente e template HTML)
+OBS: Caso queira fazer este metodo utilizando inputs será necessário importar o FormsModule no app.module.ts e inserir ele nos imports.
 
 * Dica - Nos seletores dos componente é possível pasar um arquivo referenciando o componente ou pode ser passado pelo mesmo seletor geralmente isto é usado quando o componente é pequeno. O mesmo vale para o css utilizando css inline.
 
